@@ -1,0 +1,11 @@
+{
+  "name": "multitool",
+  "version": "1.0.0",
+  "description": "Multitool project that shows most of my skills",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lobzikk",
+  "license": "ISC"
+}
