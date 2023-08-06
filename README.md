@@ -21,7 +21,7 @@ Why did I make this project? This project showcases most of my skills, such as
 ## This project is not ready yet.
 So there I will post all updates on the Multitool!
  - [x] Generating an idea (100%)
- - [ ] Design (38%)
+ - [ ] Design (49%)
 	 - [x] README (100%, possible updates)
 	 - [x] Notes (100%)
 	 - [ ]  Settings (20%)
