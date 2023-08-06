@@ -30,7 +30,7 @@ So there I will post all updates on the Multitool!
 		 - [ ] Graphs (0%) 
 		 - [ ] Simulations (0%)
 		 - [ ] Chat (0%)
-	- [ ] Graphs (10%)
+	- [ ] Graphs (75%)
 	- [ ] Simulations (0%)
 	- [ ] Chat (0%)
 - [ ] Coding (0%)
